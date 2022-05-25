@@ -9,7 +9,7 @@
             "email": "info@albert-it.be"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "laravelcollective/html": "^6.2"
     },
