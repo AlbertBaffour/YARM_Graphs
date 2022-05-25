@@ -1,5 +1,5 @@
 {
-    "name": "yarm/visualizations",
+    "name": "yarm_anex/visualizations",
     "description": "An add-on for the YARM Reference Manager Application. Contains a variety of visualisation tools",
     "type": "library",
     "license": "MIT",
